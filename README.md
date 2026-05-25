@@ -2,10 +2,6 @@
 
 A recipe recommendation system built on the [food.com](https://www.food.com/) dataset, implementing and comparing three recommender approaches: Content-Based Filtering, User-Based Collaborative Filtering, and Matrix Factorization (SVD).
 
-**Course:** Recommendation Tools — IESEG School of Management  
-**Instructor:** Fernando DIAZGONZALEZ  
-**Author:** Duc Manh NGUYEN
-
 ---
 
 ## Project Overview

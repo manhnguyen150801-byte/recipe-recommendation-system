@@ -35,6 +35,11 @@ recommendation_project/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
+├── assets/                        ← charts used in this README
+│   ├── rating_distribution.png
+│   ├── ratings_per_user.png
+│   ├── ratings_per_recipe.png
+│   └── model_comparison.png
 ├── notebook/
 │   ├── notebook.ipynb             ← full analysis pipeline
 │   └── README.md
